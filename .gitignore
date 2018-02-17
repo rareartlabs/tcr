@@ -4,3 +4,7 @@ truffle.js
 secrets.json
 *.swp
 installed_contracts/
+
+npm-debug.log
+
+package-lock.json
